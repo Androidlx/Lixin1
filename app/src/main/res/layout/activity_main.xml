@@ -21,14 +21,10 @@
         app:left_btn_text="返回"
         app:left_btn_text_size="8dp"
         app:left_btn_text_color="#ffffff"
-        app:left_btn_bg="#6699ff"
 
         app:right_btn_text="更多"
         app:right_btn_text_size="8dp"
         app:right_btn_text_color="#ffffff"
-        app:right_btn_bg="#6699ff"
-
-
 
         >
     </com.example.lixin.zhoukao.MyCustomView>

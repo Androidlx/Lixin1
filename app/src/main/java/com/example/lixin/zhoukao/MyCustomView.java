@@ -103,7 +103,7 @@ public class MyCustomView extends LinearLayout {
     private void setViewContext() {
         left_btn.setText(left_btn_text);
         left_btn.setTextColor(left_btn_text_color);
-        left_btn.setBackgroundColor(left_btn_bg);
+//        left_btn.setBackgroundColor(left_btn_bg);
         left_btn.setTextSize(left_btn_size);
 
 
@@ -115,7 +115,7 @@ public class MyCustomView extends LinearLayout {
 
         right_btn.setText(right_btn_text);
         right_btn.setTextColor(right_btn_text_color);
-        right_btn.setBackgroundColor(right_btn_bg);
+//        right_btn.setBackgroundColor(right_btn_bg);
         right_btn.setTextSize(right_btn_size);
 
     }

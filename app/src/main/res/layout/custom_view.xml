@@ -6,7 +6,9 @@
     <Button
         android:id="@+id/left_btn"
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content" />
+        android:layout_height="wrap_content"
+        android:background="@drawable/drawable_selector"
+        />
     <TextView
         android:id="@+id/center_text"
         android:layout_gravity="center"
@@ -16,7 +18,9 @@
     <Button
         android:id="@+id/right_btn"
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content" />
+        android:layout_height="wrap_content"
+        android:background="@drawable/drawable_selector"
+        />
 
 
 </LinearLayout>
